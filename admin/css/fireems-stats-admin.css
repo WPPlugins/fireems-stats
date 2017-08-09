@@ -1,0 +1,104 @@
+.fire-admin-wrap {
+
+	width: 90%;
+
+	min-height: 100px;
+
+	margin: 15px 0px;
+
+	background-color: #fff;
+
+}
+
+.fire-admin-tableheader {
+
+	background-color: #ccc;
+
+}
+
+.fire-admin-tablefooter {
+
+	background-color: #ccc;
+
+}
+
+.fire-admin-footer {
+
+	font-size: 10px;
+
+}
+
+.fire-admin-wrap input {
+
+	text-align: center;
+
+}
+
+.fems-total {
+
+	background-color: #fff;
+
+}
+
+.fems-month {
+
+	width: 40%;
+
+}
+
+.fems-action {
+
+	width: 15%;
+
+}
+
+.fems-col1 {
+
+	width: 15%;
+
+}
+
+.fems-col2 {
+
+	width: 15%;
+
+}
+
+.fems-col3 {
+
+	width: 15%;
+
+}
+
+.fems-version {
+
+	padding-top: 20px;
+
+}
+
+.fems-loader {
+
+	display: none;
+
+	left: 40%;
+
+	padding: 2px 10px;
+
+	position: absolute;
+
+	top: 30%;
+
+	z-index: 99999;
+
+}
+
+.fems-updated {
+	
+	display: none;
+
+}
+
+.fems-success {
+
+	background-color: green;
+}
